@@ -7,7 +7,6 @@ def getField(p):
         return 0
 
 def get2Moves(a, b):
-
     brd = [[0 for i in range(8)] for j in range(8)]
 
     x = b[0]
